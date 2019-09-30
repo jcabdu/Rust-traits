@@ -1,7 +1,7 @@
 // TRAITS: functionality a type has and can share with other types - shared behavior. 
-//  Trait bounds to specify a generic can be any type that has that behavior. 
-//  Type's behavior consists on the methods we can call on that type => different types share same behavior if we can call the same methods on them. 
-//  Trait definitions are a way to group method signatures together to define a set of behaviors necessary to accomplish some purpose.
+//  - trait bounds to specify a generic can be any type that has that behavior. 
+//  - type's behavior consists on the methods we can call on that type => different types share same behavior if we can call the same methods on them. 
+//  - trait definitions are a way to group method signatures together to define a set of behaviors necessary to accomplish some purpose.
 
 #[allow(unused_variables)]
 #[allow(dead_code)]
